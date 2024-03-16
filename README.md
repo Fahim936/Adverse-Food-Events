@@ -1,4 +1,6 @@
 # Adverse-Food-Events
+
+**Link:** - https://www.kaggle.com/datasets/fda/adverse-food-events
 I utilized the Adverse Food Events dataset, which contains information about various adverse events related to food consumption. The dataset includes attributes such as the type of adverse event, food category, location, severity, and more.
 
 To begin the analysis, I imported the necessary libraries including pandas, numpy, matplotlib, and seaborn. Then, I loaded the dataset into a pandas DataFrame for easy manipulation and exploration.
